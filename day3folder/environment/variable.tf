@@ -12,17 +12,17 @@ variable "org_name" {
 
 variable "rg_prefix" {
   type  = string
-  default = "rg12"
+  default = "rg011"
 }
 
 variable "st_prefix" {
   type  = string
-  default = "st12"
+  default = "st011"
 }
 
 variable "sb_prefix" {
   type  = string
-  default = "sb12"
+  default = "sb011"
 }
 
 variable "env" {
